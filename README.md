@@ -1,6 +1,6 @@
 # コロナ陽性者数予測概要
 
-この分析の概要は、中妻研究会Data Science Part の入ゼミ課題として、googleが発表している[Japan COVID-19 Forecast](https://datastudio.google.com/u/0/reporting/8224d512-a76e-4d38-91c1-935ba119eb8f/page/ncZpB?s=nXbF2P6La2M) を元にデータセットを作成し、pythonとAutoMLでそれぞれコロナウイルスの感染拡大予測を行って、***①Google予測値***, ***②pythonで手組みした予測値***, ***③AutoMLが算出した予測値*** の3つを実績値と比較して精度比較を行うというものです。
+この分析の概要は、中妻研究会Data Science Part の入ゼミ課題として、googleが発表している[Japan COVID-19 Forecast](https://datastudio.google.com/u/0/reporting/8224d512-a76e-4d38-91c1-935ba119eb8f/page/ncZpB?s=nXbF2P6La2M) を元にデータセットを作成し、pythonとAutoMLでそれぞれコロナウイルスの感染拡大予測を行って、***①Google予測値***, ***②pythonで手組みした予測値***, ***③AutoMLが算出した予測値*** の3つを実績値と比較して精度比較を行うというものです。　※考察はプレゼン資料にてまとめて行っています。
 
 + 学習期間         ：2020/02/04 ~ 2020/11/28
 
